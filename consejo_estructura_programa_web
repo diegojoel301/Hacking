@@ -1,0 +1,8 @@
+Una vez como atacantes tenemos la ruta absoluta de donde se ejecuta la app, por ejemplo: 
+  /var/www/mago/....
+El nombre del fichero principal puede ser:
+  - index.js
+  - index.py
+  - app.py
+  - app.js
+ 
